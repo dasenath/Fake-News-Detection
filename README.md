@@ -20,7 +20,11 @@ Table 2: Pipeline results
 ![image](https://user-images.githubusercontent.com/105256866/190878036-a1b87e6c-f949-4e25-910b-ea9158a40fab.png)
 
 
+
+
 References
+
 GitHub. 2017. GitHub - FakeNewsChallenge/fnc-1. [online] Available at: <https://github.com/FakeNewsChallenge/fnc-1> [Accessed 29 March 2022].
+
 Riedel, B., Augenstein, I., Spithourakis, G.P. and Riedel, S., 2017. A simple but tough-to-beat baseline for the Fake News Challenge stance detection task. arXiv preprint arXiv:1707.03264.
 
