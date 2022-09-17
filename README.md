@@ -1,6 +1,7 @@
 # Fake-News-Detection
-The dataset to be analysed pertains to news articles (GitHub, 2017). It contains news headlines, article bodies and the nature of the agreement between the headline and the article bodies (stance). The task given was to classify is the headlines and the article bodies areunrelated, agree, disagree and discuss. The word clouds presented in Figure 1 aided in identifying the extent of word similarity for the four classes.
-We took inspiration for calculating the cosine similarity from Riedel et al. (2017) and implemented the pipeline presented in Figure 2 handle the task. We experimented with various feature extraction and machine learning techniques as listed in Table 1. An overall accuracy of 93.3% was obtained when the models M3 and M5 were used for the binary and three-class classifcation tasks respectively (highlighted in Table 1). The F1-scores of the pipeline are presented in Table 2.
+The dataset to be analysed pertains to news articles (GitHub, 2017). It contains news headlines, article bodies, and the nature of the agreement between the headline and the article bodies (stance). The task was to classify whether the headlines and the article bodies are: unrelated, agree, disagree, and discuss. The word clouds presented in Figure 1 aided in identifying the extent of word similarity for the four classes. 
+
+We took inspiration for calculating the cosine similarity from Riedel et al. (2017) and implemented the pipeline presented in Figure 2 to handle the task. We experimented with various feature extraction and machine learning techniques, as listed in Table 1. Overall accuracy of 93.3% was obtained when the models M3 and M5 were used for the binary and three-class classification tasks, respectively (highlighted in Table 1). The F1-scores of the pipeline are presented in Table 2.
 
 Figure 1: Word cloud
 
