@@ -3,9 +3,11 @@ The dataset to be analysed pertains to news articles (GitHub, 2017). It contains
 We took inspiration for calculating the cosine similarity from Riedel et al. (2017) and implemented the pipeline presented in Figure 2 handle the task. We experimented with various feature extraction and machine learning techniques as listed in Table 1. An overall accuracy of 93.3% was obtained when the models M3 and M5 were used for the binary and three-class classifcation tasks respectively (highlighted in Table 1). The F1-scores of the pipeline are presented in Table 2.
 
 Figure 1: Word cloud
+
 ![image](https://user-images.githubusercontent.com/105256866/190878116-c5f7f61b-56b6-4a6a-b3a5-055ce523f1ce.png)
 
 Figure 2: Classification pipeline
+
 ![image](https://user-images.githubusercontent.com/105256866/190878134-7c1842a3-bbd6-4b38-8d8c-bb4bff2b462e.png)
 
 Table 1: Classification models
